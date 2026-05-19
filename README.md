@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql, prometheus, " />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prometheus, grafana" />
 <br><br>
 
 **Data**

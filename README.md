@@ -19,19 +19,30 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-* **Languages:** [Python, Java, Bash, R, JavaScript]
-* **Frontend:** [React, HTML5, CSS3]
-* **Backend:** [PostgreSQL, MySQL, Apache Spark, Apache Airflow]
-* **Data** [Pandas, Numpy, Matplotlib, ]
-* **Tools & DevOps:** [Git, Docker, AWS, Kubernetes, GitHub Actions, Terraform, Linux]
-
+**Languages**
 <br>
+<img src="https://skillicons.dev/icons?i=python,java,bash,r,js" />
+<br><br>
 
-<p align="center">
-  <!-- Languages, Frontend, and Data -->
-  <img src="https://skillicons.dev/icons?i=python,java,bash,r,js,react,html,css,pandas,numpy" />
-  <!-- Backend, DevOps, and Tools -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,aws,kubernetes,githubactions,terraform,linux" />
-</p>
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+<br><br>
 
-<hr>
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql, prometheus, " />
+<br><br>
+
+**Data**
+<br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy, sklearn" />
+<br><br>
+
+**Tools & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,githubactions,terraform,linux" />
+
+**Software I use**
+<br>
+<img src="https://skillicons.dev/icons?i=figma, blender, obsidian, latex, " />

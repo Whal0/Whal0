@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whal0&layout=compact&theme=radical)](https://github-readme-stats.shion.dev/api/top-langs/?username=Whal0&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Whal0&layout=compact&theme=radical)
 
 ## Tech Stack
 
 * **Languages:** [Python, Java, Bash, R, JavaScript]
 * **Frontend:** [React, HTML5, CSS3]
-* **Backend:** [PostgreSQL, MySQL, pache Spark]
+* **Backend:** [PostgreSQL, MySQL, Apache Spark, Apache Airflow]
 * **Data** [Pandas, Numpy, Matplotlib, ]
 * **Tools & DevOps:** [Git, Docker, AWS, Kubernetes, GitHub Actions, Terraform, Linux]

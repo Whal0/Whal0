@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Languages, Frontend, and Data -->
   <img src="https://skillicons.dev/icons?i=python,java,bash,r,js,react,html,css,pandas,numpy" />
-  <br><br>
   <!-- Backend, DevOps, and Tools -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,aws,kubernetes,githubactions,terraform,linux" />
 </p>

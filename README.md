@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Whal0&layout=compact&theme=radical&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Whal0&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=7)
 
 ## Tech Stack
 

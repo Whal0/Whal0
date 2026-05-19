@@ -31,18 +31,18 @@ Here are some ideas to get you started:
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prometheus, grafana" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prometheus,grafana" />
 <br><br>
 
 **Data**
 <br>
-<img src="https://skillicons.dev/icons?i=pandas,numpy, sklearn" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
 <br><br>
 
 **Tools & DevOps**
 <br>
 <img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,githubactions,terraform,linux" />
 
-**Software I use**
+**Other things I regularly use**
 <br>
-<img src="https://skillicons.dev/icons?i=figma, blender, obsidian, latex, " />
+<img src="https://skillicons.dev/icons?i=figma,blender,obsidian,latex" />

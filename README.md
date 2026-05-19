@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **Data**
 <br>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
 <br><br>
 
 **Tools & DevOps**

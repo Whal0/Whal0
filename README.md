@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br><br>
 
 **Data**
-<br<br>
+<br><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
 <br><br>
 

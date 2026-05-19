@@ -20,29 +20,30 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 **Languages**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=python,java,bash,r,js" />
 <br><br>
 
 **Frontend**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 <br><br>
 
 **Backend**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prometheus,grafana" />
 <br><br>
 
 **Data**
-<br>
+<br<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,matplotlib" />
 <br><br>
 
 **Tools & DevOps**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,githubactions,terraform,linux" />
+<br><br>
 
 **Other things I regularly use**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=figma,blender,obsidian,latex" />
